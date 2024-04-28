@@ -1,0 +1,43 @@
+/* Footer Container Style File */
+
+.footer_container{
+    /* border: 1px solid red; */
+
+    background-color: black;
+
+    height: 15vh;
+
+    margin-top: 5vh;
+}
+
+.footer_txt{
+    /* border: 1px solid red; */
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+
+    color: #EEEEEE;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social_links_container{
+    /* border: 1px solid red; */
+
+    height: 10vh;
+
+    margin-top: 2vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.social_link{
+    /* border: 1px solid yellow; */
+
+    width: 3vw;
+
+    filter: invert(1);
+}

@@ -1,0 +1,190 @@
+/* Collaborations Container Style File  */
+
+.collab_container{
+    /* border: 1px solid red; */
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+.collab_heading_container{
+    /* border: 1px solid red; */
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 1vw;
+}
+
+.collab_heading{
+    /* border: 1px solid red; */
+    border-radius: 25px;
+
+    background-color: #191919;
+
+    color: #EEEEEE;
+
+    width: 25%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.speech_container{
+    /* border: 1px solid yellow; */
+    border-radius: 25px;
+
+    background-color: #191919;
+
+    height: 50vh;
+    width: 45%;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    padding: 3vh 3vw;
+}
+
+.speaker_img{
+    /* border: 1px solid red; */
+
+    height: 25vh;
+}
+
+.speech_txt{
+    /* border: 1px solid red; */
+
+    color: #EEEEEE;
+
+    width: 50%;
+
+    text-align: center;
+
+    margin-top: 6vh;
+
+    font-size: large;
+}
+
+.form_container{
+    /* border: 1px solid yellow; */
+    border-radius: 25px;
+
+    background-color: #191919;
+
+    height: 50vh;
+    width: 45%;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    padding: 2vh 2vw;
+}
+
+.form_heading{
+    /* border: 1px solid red; */
+    border-bottom: 2px solid #EEEEEE;
+
+    color: #EEEEEE;
+
+    margin-top: 1vh;
+}
+
+.form_type{
+    /* border: 1px solid red; */
+
+    height: 85%;
+    width: 100%;
+
+    margin-top: 3vh;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.field_heading{
+    /* border: 1px solid red; */
+
+    color: #EEEEEE;
+
+    width: 100%;
+
+    padding-left: 10vw;
+    padding-right: 10vw;
+
+    font-size: small;
+}
+
+.name_input{
+    /* border: 1px solid red; */
+    border-radius: 10px;
+
+    height: 5vh;
+    width: 20vw;
+
+    padding-left: 1vw;
+    padding-right: 1vw;
+
+    margin-top: 1vh;
+
+    outline: none;
+
+    text-transform: capitalize;
+}
+
+.email_input{
+    /* border: 1px solid none; */
+    border-radius: 10px;
+
+    height: 5vh;
+    width: 20vw;
+
+    padding-left: 1vw;
+    padding-right: 1vw;
+
+    margin-top: 1vh;
+
+    outline: none;
+}
+
+.message_input{
+    border: 1px solid none;
+    border-radius: 10px;
+
+    height: 20vh;
+    width: 20vw;
+
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-top: 1vh;
+
+    margin-top: 1vh;
+
+    outline: none;
+
+    resize: none;
+}
+
+.submit_btn{
+    border: 1px solid none;
+    border-radius: 10px ;
+
+    outline: none;
+
+    background-color: #31363F;
+
+    color: #EEEEEE;
+
+    height: 5vh;
+    width: 7vw;
+    
+    margin-top: 2vh;
+}

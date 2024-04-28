@@ -1,0 +1,35 @@
+/* Main Style File */
+
+*{
+    margin: 0px;
+
+    padding: 0px;
+
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: space grotesk;
+
+    background-color: #0F0F0F;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: #0F0F0F;
+
+    margin-block: 25vh;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 25px;
+
+    background: #EEEEEE;
+}

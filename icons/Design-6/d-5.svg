@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733333"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="d-5.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.5164126"
+     inkscape:cx="118.04175"
+     inkscape:cy="146.06843"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#bfbfbf;stroke:#808080;stroke-width:0.537564;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="21.960899"
+       sodipodi:cy="14.558348"
+       sodipodi:r1="13.680816"
+       sodipodi:r2="5.1671801"
+       sodipodi:arg1="0.68319145"
+       sodipodi:arg2="1.31151"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 32.57122,23.194655 -9.285503,-3.64185 -6.259665,7.765323 0.594227,-9.956432 -9.3196038,-3.553678 9.6527558,-2.511563 0.499833,-9.9616171 5.371504,8.4042004 9.628518,-2.6029395 -6.332984,7.7056452 z"
+       inkscape:transform-center-x="-0.024364384"
+       inkscape:transform-center-y="-2.972682"
+       transform="matrix(2.2150784,0.59352845,-0.59352845,2.2150784,-6.1637987,-8.2255242)" />
+  </g>
+</svg>

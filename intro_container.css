@@ -1,0 +1,39 @@
+/* Introduction Container Style File */
+
+.intro_container{
+    /* border: 1px solid red; */
+
+    background-color: #191919;
+
+    height: 20vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin-top: 5vh;
+
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+.image_container{
+    /* border: 1px solid red; */
+
+    height: 90%;
+
+    margin-right: 1vw;
+}
+
+.logo_img{
+    height: 100%;
+}
+
+.intro_txt_container{
+    /* border: 1px solid red; */
+
+    font-weight: bolder;
+    font-size: x-large;
+
+    color: #EEEEEE;
+}

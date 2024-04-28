@@ -1,0 +1,87 @@
+/* Header Container Style File */
+
+.header_container{
+    /* border: 1px solid red; */
+    border-bottom: 5px solid #EEEEEE;
+
+    background-color: #191919;
+
+    height: 10vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+.icon_container{
+    /* border: 1px solid red; */
+
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.red_icon_img, .yellow_icon_img, .green_icon_img{
+    /* border: 1px solid red; */
+
+    height: 40%;
+
+    margin-left: 1vw;
+}
+
+.name_link{
+    /* border: 1px solid red; */
+
+    color: #EEEEEE;
+
+    text-decoration: none;
+
+    font-size: x-large;
+    font-weight: bold;
+
+    transition: all .5s ease-in-out;
+
+    margin-left: 1vw;
+    margin-right: 1vw;
+
+}
+.name_link:hover{
+    color: #808080;
+}
+
+.nav_links_container{
+    /* border: 1px solid red; */
+
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.link{
+    /* border: 1px solid red; */
+
+    color: #EEEEEE;
+
+    text-decoration: none;
+
+    font-size: large;
+    font-weight: bold;
+
+    transition: all .5s ease-in-out;
+
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+.link:hover{
+    color: #808080;
+}

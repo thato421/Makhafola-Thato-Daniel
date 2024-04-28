@@ -1,0 +1,165 @@
+/* Skills Container Style File */
+
+.skills_container{
+    /* border: 1px solid red; */
+
+    height: 100vh;
+
+    padding: 1vw 1vh;
+
+    margin-bottom: 5vh;
+
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    row-gap: 2vh;
+    column-gap: 2vw;
+}
+
+.skills_heading_container{
+    /* border: 1px solid red; */
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 1vw 1vh;
+
+    margin-top: 1vh;
+}
+
+.skills_heading{
+    /* border: 1px solid red; */
+    border-radius: 25px;
+
+    background-color: #191919;
+
+    color: #EEEEEE;
+
+    width: 25%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.skill{
+    /* border: 1px solid red; */
+    border-radius: 15px;
+
+    background-color: #191919;
+
+    height: 50vh;
+}
+
+.skill_txt{
+    /* border: 1px solid red; */
+
+    color:#EEEEEE;
+
+    font-weight: bold;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 1vh;
+}
+
+
+.skil_img_container{
+    /* border: 1px solid red; */
+
+    height: 40%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 1vh;
+}
+
+.skill_img{
+    /* border: 1px solid red; */
+
+    height: 100%;
+}
+
+.experince{
+    /* border: 1px solid red; */
+
+    color: #EEEEEE;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-top: 2vh;
+}
+
+.rating_container{
+    /* border: 1px solid red; */
+
+    height: 5vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    margin-top: 2vh;
+}
+
+.rating_img{
+    /* border: 1px solid red; */
+
+    height: 100%;
+
+    cursor: pointer;
+
+    transition: all .5s ease-in-out;
+}
+.rating_img:hover{
+    transform: scale(1.1);
+}
+
+.project_link_container{
+    /* border: 1px solid red; */
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin-top: 5vh;
+
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+.project_link{
+    /* border: 1px solid red; */
+    border-radius: 20px;
+
+    background-color:  #000000;
+
+    color: #EEEEEE;
+
+    width: 100%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    font-weight: bold;
+
+    text-decoration: none;
+
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+.visit_link{
+    /* border: 1px solid red; */
+
+    height: 5vh;
+
+    filter: invert(1);
+}
