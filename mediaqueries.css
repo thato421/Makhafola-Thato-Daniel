@@ -1,9 +1,7 @@
 /* Media Queries Style File */
 
-@media all (max width : 768px){
-    
-    .header_container{
-        width: 52.6vw;
+@media all and (max-width: 768px) {
+    .header_container {
+        width: 768px;
     }
-    
 }
