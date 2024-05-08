@@ -1,0 +1,29 @@
+/* Media Queries Style File */
+
+ /* Media Query for Mobile Devices */
+
+ @media (max-width: 480px) {
+
+    .header_container{
+        border: 1px solid red;
+    }
+
+}
+
+/* Media Query for Medium Screens */
+
+@media (max-width: 640px){
+
+    .heading_container{
+        /* border: 1px solid red; */
+
+        width: 80%;
+    }
+
+    .weather_container{
+        /* border: 1px solid red; */
+
+        width: 90%;
+    }
+
+}
